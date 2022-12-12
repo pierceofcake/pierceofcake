@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pierceofcake, a self-taught developer living in Tokyo.
+- 👋 Hi, I’m @pierceofcake, a self-taught developer living in Sydney.
 - 📫 Find me on Twitter (<a href="https://twitter.com/Pierce_Langdon" target="_blank">@Pierce_Langdon</a>) or drop me a line at langdon.jp@gmail.com!
 
 <!---
