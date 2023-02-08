@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pierceofcake, a hobbyist developer living in Sydney.
-- 📫 Find me on Twitter (<a href="https://twitter.com/Pierce_Langdon" target="_blank">@Pierce_Langdon</a>) or drop me a line at langdon.jp@gmail.com!
+- 👋 Hi, I’m @pierceofcake.
+- 📫 You can find me on Twitter at (<a href="https://twitter.com/Pierce_Langdon" target="_blank">@Pierce_Langdon</a>)!
 
 <!---
 pierceofcake/pierceofcake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
